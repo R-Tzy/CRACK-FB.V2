@@ -21,13 +21,13 @@ $ pip2 install mechanize
 
 $ pip2 install futures
 
-$ git clone https://github.com/YumasaaTzy/tja
+$ git clone https://github.com/R-Tzy/CRACK-FB.V2
 
 # Run Script
 
-$ cd tja
+$ cd CRACK-FB.V2
 
-$ python2 simbf-2.py
+$ python2 SMBf.py
 
 # Pemricode Hamdal
 
